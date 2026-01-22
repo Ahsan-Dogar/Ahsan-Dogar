@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ahsan Dogar - Luxury Portfolio",
+  "description": "An ultra-luxury, 3D cinematic portfolio for a world-class front-end developer, featuring Gemini-powered AI features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
