@@ -6,6 +6,13 @@
 
 > I turn ideas into polished products — from AI-powered SaaS tools and automation systems to immersive 3D web experiences.
 
+[![GitHub followers](https://img.shields.io/github/followers/Ahsan-Dogar?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Ahsan-Dogar)
+[![GitHub stars](https://img.shields.io/github/stars/Ahsan-Dogar?style=for-the-badge&logo=github&logoColor=white&color=FFD700)](https://github.com/Ahsan-Dogar)
+[![Profile views](https://komarev.com/ghpvc/?username=Ahsan-Dogar&style=for-the-badge&color=blueviolet)](https://github.com/Ahsan-Dogar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-dogar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogarahsan160@gmail.com)
+
 </div>
 
 ---
@@ -60,8 +67,8 @@
 - 📝 **[Social Post AI](https://github.com/Ahsan-Dogar/social-post)** — Open-source AI social media post generator (Buffer AI alternative)
 - 💊 **[Pharma-AI](https://github.com/Ahsan-Dogar/Pharma-AI)** — AI-powered pharmaceutical intelligence platform
 - 🔬 **[Q-RETIX AI](https://github.com/Ahsan-Dogar/Q-RETIX-AI)** — Drug discovery & clinical trial intelligence marketing site
-- 💊 **[Medflow](https://github.com/Ahsan-Dogar/Medflow)** — Smart medicine search for Pakistan
-- 🍕 **[PizzaStation](https://github.com/Ahsan-Dogar/PizzaStation)** — Online pizza ordering experience
+- 💊 **[Medflow](https://github.com/Ahsan-Dogar/Medflow)** — Smart medicine search for Pakistan · [Live](https://ahsan-dogar.github.io/Medflow/)
+- 🍕 **[PizzaStation](https://github.com/Ahsan-Dogar/PizzaStation)** — Online pizza ordering experience · [Live](https://ahsan-dogar.github.io/PizzaStation/)
 - 🖼️ **[Pixelflow](https://github.com/Ahsan-Dogar/Pixelflow)** — AI image generation studio
 
 ---
@@ -92,9 +99,5 @@
 <div align="center">
 
 ⭐ If you like what I build, consider following me and starring my repos!
-
-*Visitors count:*
-
-![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=Ahsan-Dogar.Ahsan-Dogar)
 
 </div>
