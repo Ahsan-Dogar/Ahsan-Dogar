@@ -56,13 +56,6 @@
 
 ## 📚 Featured Projects
 
-<div align="center">
-
-[![Social Post AI](https://github-readme-stats.vercel.app/api/pin/?username=Ahsan-Dogar&repo=social-post&theme=react)](https://github.com/Ahsan-Dogar/social-post)
-[![MoneyPrinterTurbo](https://github-readme-stats.vercel.app/api/pin/?username=Ahsan-Dogar&repo=MoneyPrinterTurbo&theme=react)](https://github.com/Ahsan-Dogar/MoneyPrinterTurbo)
-
-</div>
-
 - 🎬 **[MoneyPrinterTurbo](https://github.com/Ahsan-Dogar/MoneyPrinterTurbo)** — All-in-one AI short-video generator with WebUI, API & CLI
 - 📝 **[Social Post AI](https://github.com/Ahsan-Dogar/social-post)** — Open-source AI social media post generator (Buffer AI alternative)
 - 💊 **[Pharma-AI](https://github.com/Ahsan-Dogar/Pharma-AI)** — AI-powered pharmaceutical intelligence platform
@@ -77,11 +70,7 @@
 
 <div align="center">
 
-![Ahsan-Dogar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Dogar&show_icons=true&theme=react&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Dogar&theme=react&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Dogar&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ahsan-Dogar&theme=react)
 
 </div>
 
