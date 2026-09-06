@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there, I'm Ahsan Dogar
 
-### 🚀 Full-Stack Developer · AI Engineer · SaaS Builder
+### 🚀 Front-End Web Developer · AI Engineer · UI/UX Creator
 
 > I turn ideas into polished products — from AI-powered SaaS tools and automation systems to immersive 3D web experiences.
 
@@ -19,12 +19,12 @@
 
 ## ✨ About Me
 
-🎯 I'm a passionate full-stack developer and AI enthusiast who loves building **real, production-ready applications**. My focus is on the intersection of **modern web technologies** and **artificial intelligence** — creating tools that are beautiful, fast, and genuinely useful.
+🎯 I'm a passionate **front-end web developer** and AI enthusiast who loves building **beautiful, production-ready web experiences**. My focus is on the intersection of **modern web technologies** and **artificial intelligence** — crafting interfaces that are fast, polished, and genuinely useful.
 
-- 🔭 **Currently building:** AI-powered SaaS products & automation tools
-- 🌱 **Always learning:** Next.js, Three.js, AI/LLM integrations, and scalable systems
-- 💡 **What I do:** Build AI tools, craft immersive 3D portfolios, and ship open-source projects
-- 💬 **Ask me about:** React, Next.js, TypeScript, AI integrations, SaaS architecture
+- 🔭 **Currently building:** AI-powered web apps & interactive 3D experiences
+- 🌱 **Always learning:** Next.js, Three.js, AI integrations, and modern UI patterns
+- 💡 **What I do:** Craft pixel-perfect interfaces, build AI-powered front-ends, and ship open-source projects
+- 💬 **Ask me about:** React, Next.js, TypeScript, Tailwind, AI integrations, 3D web experiences
 - 📫 **Reach me:** [GitHub](https://github.com/Ahsan-Dogar) · [LinkedIn](https://www.linkedin.com/in/ahsan-dogar)
 
 ---
@@ -54,10 +54,10 @@
 
 | 🏗️ Area | 🛠️ What I ship |
 | -------- | --------------- |
-| **AI SaaS** | Production-ready AI tools with billing, auth & multi-platform generation |
-| **3D Experiences** | Immersive portfolios & product sites with Three.js, GSAP & Framer Motion |
-| **Automation** | Tools that save people hours — video, content and workflow automation |
-| **AI Integration** | LLM-powered features: content generation, chatbots & intelligent search |
+| **Front-End Development** | Pixel-perfect, responsive & accessible interfaces with React, Next.js & Tailwind |
+| **3D Web Experiences** | Immersive portfolios & product sites with Three.js, GSAP & Framer Motion |
+| **AI-Powered Front-Ends** | Beautiful UIs powered by LLM features — content generation, chatbots & intelligent search |
+| **UI/UX Design** | Clean, modern interfaces with premium typography & motion
 
 ---
 
