@@ -4,7 +4,7 @@
 
 ### 🚀 Front-End Web Developer · AI Engineer · UI/UX Creator
 
-> I turn ideas into polished products — from AI-powered SaaS tools and automation systems to immersive 3D web experiences.
+> I turn ideas into polished, pixel-perfect interfaces — from AI-powered web apps and immersive 3D experiences to sleek SaaS front-ends.
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahsan-Dogar?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Ahsan-Dogar)
 [![GitHub stars](https://img.shields.io/github/stars/Ahsan-Dogar?style=for-the-badge&logo=github&logoColor=white&color=FFD700)](https://github.com/Ahsan-Dogar)
@@ -40,7 +40,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
