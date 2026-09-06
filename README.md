@@ -62,6 +62,7 @@
 
 ## 📚 Featured Projects
 
+- 🚀 **[Ahsan-Dogar-Portfolio](https://github.com/Ahsan-Dogar/Ahsan-Dogar-Portfolio)** — My 3D space-themed portfolio · [Live](https://ahsan-dogar.github.io/Ahsan-Dogar-Portfolio/)
 - 🎬 **[MoneyPrinterTurbo](https://github.com/Ahsan-Dogar/MoneyPrinterTurbo)** — All-in-one AI short-video generator with WebUI, API & CLI
 - 📝 **[Social Post AI](https://github.com/Ahsan-Dogar/social-post)** — Open-source AI social media post generator (Buffer AI alternative)
 - 💊 **[Pharma-AI](https://github.com/Ahsan-Dogar/Pharma-AI)** — AI-powered pharmaceutical intelligence platform
